@@ -1,2 +1,3 @@
-rm -rf Slides.slides.html
+rm -rf index.slides.html
 jupyter nbconvert index.ipynb --to slides --post serve
+cp index.slides.html index.html

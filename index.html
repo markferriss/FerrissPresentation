@@ -13267,11 +13267,145 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Topics">Topics<a class="anchor-link" href="#Topics">&#182;</a></h2><ul>
+<li>Self-healing PLLs</li>
 <li>Fractional-N noise cancellation</li>
 <li>Varactor folding</li>
 <li>Flicker noise suppression in VCOs</li>
 <li>Software for phase arrays</li>
 </ul>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 align="center">Self-healing PLLs</h1><hr>
+<p><br><br></p>
+<p><strong>Ferriss, M.</strong>; Plouchart, J.-O.; Natarajan, A.; Rylyakov, A.; Parker, B.;<br> Babakhani, A.; Yaldiz, S.; Sadhu, B.; Valdes-Garcia, Alberto; Tierno, J.; Friedman, D.,<br>
+<em>"An integral path self-calibration scheme for a 20.1–26.7GHz dual-loop PLL in 32nm SOI CMOS,"</em><br>
+VLSI Circuits (VLSIC), 2012.</p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Single-and-dual-path-PLLs">Single and dual path PLLs<a class="anchor-link" href="#Single-and-dual-path-PLLs">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/DualPath1.png" width="80%"></p>
+<ul>
+<li>Split control path into proportional and integral path
+e.g: [Craninckx, JSSC 1998]</li>
+<li><p>Requires two charge-pumps and two VCO varactors</p>
+<p><strong>Why use this architecture?</strong></p>
+</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="VCO-small-signal-gain-variation">VCO small signal gain variation<a class="anchor-link" href="#VCO-small-signal-gain-variation">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/DualPath2.svg" width="80%"></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Gain-variation-affects-on-PLL-phase-noise">Gain variation affects on PLL phase noise<a class="anchor-link" href="#Gain-variation-affects-on-PLL-phase-noise">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/BandwidthVariation.svg" width="80%"></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Prior-art-bandwidth-correction">Prior-art bandwidth correction<a class="anchor-link" href="#Prior-art-bandwidth-correction">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/StepAddition.svg" width="80%"></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Time-to-crossover-in-presence-of-offsets">Time-to-crossover in presence of offsets<a class="anchor-link" href="#Time-to-crossover-in-presence-of-offsets">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/TransientCross.jpg" width="80%"></p>
+<p><code>Real measurement has offsets caused by: Charge pump current mismatch, capacitor leakage, BB-PFD offset, etc.</code></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Effects-of-non-linearity-and-offsets">Effects of non-linearity and offsets<a class="anchor-link" href="#Effects-of-non-linearity-and-offsets">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/TimeToCross.svg" width="80%"></p>
+<ul>
+<li>Saturation corrupts measurement when step is large</li>
+<li>Offset corrupts measurement when step is small</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="PLL-response-to-a-phase-step,-with-no-proportional-path">PLL response to a phase step, with no proportional path<a class="anchor-link" href="#PLL-response-to-a-phase-step,-with-no-proportional-path">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/NoProp.png" width="80%"></p>
+<ul>
+<li>Saturation corrupts measurement when step is large</li>
+<li>Offset corrupts measurement when step is small</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Transfer-function-before/after-calibration">Transfer function before/after calibration<a class="anchor-link" href="#Transfer-function-before/after-calibration">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/BandwidthHealed.svg" width="80%"></p>
+<p><code>Calibration system stabilizes transfer function</code></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Phase-noise-before/after-calibration">Phase noise before/after calibration<a class="anchor-link" href="#Phase-noise-before/after-calibration">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/PhaseNoiseHealed.svg" width="80%"></p>
+<p><code>Stabilized transfer function leads to phase noise uniformity</code></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Wafer-level-test">Wafer level test<a class="anchor-link" href="#Wafer-level-test">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/WaferMap.svg" width="80%"></p>
+<p>Measured jitter peaking (in dB) before/after calibration. Tested every die on a 300mm wafer at 25GHz</p>
+<p><code>Improved uniformity shown across wafer</code></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Parametric-phase-noise-healing">Parametric phase noise healing<a class="anchor-link" href="#Parametric-phase-noise-healing">&#182;</a></h1><hr>
+<p><img src="Inkscape/SelfHealing/FullSelfHealing.svg" width="80%"></p>
+<p>Noise @10MHz = f( VCO fnom, Amplitude, Bias Voltage and Current, VCC, Band )</p>
+<p><em>Methodology described in:</em>  S. Yaldiz, V. Calayir, X. Li, L. Pileggi, A. Natarajan, M. Ferriss and J. Tierno, “Indirect   Phase Noise Sensing for Self-Healing Voltage Controlled Oscillators,” IEEE CICC, Mar. 2011.</p>
 
 </div>
 </div>

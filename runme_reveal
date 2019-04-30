@@ -1,4 +1,0 @@
-# rm -rf Slides.slides.html
-jupyter nbconvert --to slides index.ipynb
-# jupyter nbconvert --to slides index.ipynb --reveal-prefix=reveal.js/js
-cp index.slides.html index.html
