@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="102.13163mm"
+   height="62.931301mm"
+   viewBox="0 0 102.13163 62.931301"
+   version="1.1"
+   id="svg3630"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="FracN_Concept.svg">
+  <defs
+     id="defs3624">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5210-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-27"
+       style="overflow:visible">
+      <path
+         id="path5213-89"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5210-5-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3648"
+       style="overflow:visible">
+      <path
+         id="path3646"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5210-5-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3654"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3652"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3658"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3656"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3662"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3660"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-0"
+       style="overflow:visible">
+      <path
+         id="path5213-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3668"
+       style="overflow:visible">
+      <path
+         id="path3666"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-17"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5210-5-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3674"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3672"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3678"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3676"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4252887"
+     inkscape:cx="400.38258"
+     inkscape:cy="201.64057"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1136"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.166328,-71.254587)">
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       y="81.061043"
+       x="26.700832"
+       height="11.219128"
+       width="15.636636"
+       id="rect9397"
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       id="text9399"
+       y="88.331856"
+       x="28.876799"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.08000088px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224"
+         y="88.331856"
+         x="28.876799"
+         id="tspan9401"
+         sodipodi:role="line">PFD</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9403"
+       d="m 20.888558,84.095712 h 4.79779"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleOutM-5)" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       id="path9411"
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="48.026638"
+       cy="77.745728"
+       r="3.5277779" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9413"
+       d="m 48.026629,75.346822 v 3.38667"
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-17)" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9415"
+       d="m 48.026629,74.146552 v -2.75084"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9417"
+       d="m 45.909959,71.395712 h 4.233339"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9419"
+       d="m 48.026629,81.555712 v 1.12889"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path9421"
+       d="m 48.026629,88.329044 v -4.233332 l -0.891411,-1.07105"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       id="path9423"
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="48.026638"
+       cy="94.679024"
+       r="3.5277779" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9425"
+       d="m 48.026629,92.280164 v 3.38666"
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-17)" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path9427"
+       d="m 48.026629,90.869044 v -1.12888 l -0.891411,-1.12889"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9429"
+       d="M 48.026629,100.95766 V 98.206823"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9431"
+       d="m 45.613867,100.96201 h 4.82555"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9433"
+       d="m 46.418118,101.92712 h 3.21704"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9435"
+       d="m 47.624518,102.89223 h 0.804251"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9437"
+       d="m 47.071959,84.052702 c 0.45543,-0.7707 0.963218,-0.7785 1.116169,-0.7607 0.0296,0.003 0.0459,0.008 0.0459,0.008"
+       style="opacity:0.5;fill:none;stroke:#070000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#TriangleOutS-0)" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9439"
+       d="m 47.334508,89.768903 c 0.455419,-0.7707 0.96321,-0.7785 1.116171,-0.76071 0.0297,0.003 0.046,0.008 0.046,0.008"
+       style="opacity:0.5;fill:none;stroke:#070000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#TriangleOutS-0)" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9441"
+       d="m 42.337447,83.531272 h 3.845031"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-5-2)" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9443"
+       d="m 42.336288,89.330283 h 3.952269"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-5-2)" />
+    <g
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="matrix(0,0.31503869,0.31503869,0,4.6470693,55.574233)"
+       id="g9445"
+       style="display:inline;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.322539,172.72643 h 5.856561 l 2.41538,3.77166 3.54331,-7.08661 3.5433,7.08661 3.54331,-7.08661 3.54331,7.08661 3.54331,-7.08661 1.36809,3.38264 h 5.00878"
+         id="path9447"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="rotate(90)"
+       style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:0.28222224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9449"
+       y="-61.862881"
+       x="96.153023"
+       ry="0.14853798"
+       height="5.6444435"
+       width="0.42184773" />
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="rotate(90)"
+       style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:0.28222224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9451"
+       y="-61.862881"
+       x="97.966927"
+       ry="0.14853798"
+       height="5.6444435"
+       width="0.42184773" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9453"
+       d="M 48.164479,85.905902 H 72.535218"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9455"
+       d="m 56.620528,100.97192 h 4.825561"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9457"
+       d="m 57.424787,101.93703 h 3.21704"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9459"
+       d="m 58.631179,102.90214 h 0.804259"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9461"
+       d="M 59.033298,101.05571 V 98.304873"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="rotate(90)"
+       style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:0.28222224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9463"
+       y="-70.611778"
+       x="91.637459"
+       ry="0.14853798"
+       height="5.6444435"
+       width="0.42184773" />
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="rotate(90)"
+       style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:0.28222224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9465"
+       y="-70.611778"
+       x="93.451363"
+       ry="0.14853798"
+       height="5.6444435"
+       width="0.42184773" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9467"
+       d="m 67.737449,91.715713 v -5.926671 0"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9469"
+       d="m 65.302148,100.97192 h 4.82555"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9471"
+       d="m 66.106428,101.93703 h 3.21704"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9473"
+       d="m 67.31282,102.90214 h 0.804259"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.48255408;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9475"
+       d="M 67.714939,101.05571 V 93.707383"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       id="text9477"
+       y="79.015694"
+       x="52.21524"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         dy="0 1.0698485"
+         style="font-weight:normal;font-size:3.95111108px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:0.28222224"
+         y="79.015694"
+         x="52.21524"
+         id="tspan9479"
+         sodipodi:role="line">Icp</tspan></text>
+    <g
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="matrix(0.12673427,0,0,0.12673427,33.974597,60.472425)"
+       id="g9481">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:4.90221024;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path9483"
+         transform="matrix(1.3627822,0,0,1.3627822,-368.66309,-177.9621)"
+         cx="532.3504"
+         cy="277.50497"
+         r="39.06234" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.22688174;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 329.36791,200.56747 c 0,0 7.2065,23.6501 13.6168,23.6501 6.4104,0 13.6168,-23.6501 13.6168,-23.6501 0,0 6.7186,-27.13939 13.6169,-27.13939 6.8982,0 13.6168,27.13939 13.6168,27.13939"
+         id="path9485"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cacac" />
+    </g>
+    <rect
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       y="108.35609"
+       x="52.744656"
+       height="11.288891"
+       width="14.111112"
+       id="rect9495"
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(0.99956589,1.0004343)"
+       id="text9497"
+       y="115.57809"
+       x="55.804379"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:5.07999992px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222221"
+         y="115.57809"
+         x="55.804379"
+         id="tspan9499"
+         sodipodi:role="line">1/N</tspan></text>
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:transform-center-y="0.12545028"
+       inkscape:transform-center-x="-3.620039"
+       d="m 90.958525,82.460217 6.375223,3.539118 -6.252578,3.751547 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.0640183"
+       sodipodi:arg1="-2.1112158"
+       sodipodi:r2="2.1049316"
+       sodipodi:r1="4.2098627"
+       sodipodi:cy="86.070145"
+       sodipodi:cx="93.124481"
+       sodipodi:sides="3"
+       id="path9501"
+       style="fill:none;stroke:#000000;stroke-width:0.84666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9503"
+       d="m 85.934359,84.481772 h 5.02417"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9505"
+       d="m 85.799678,87.521183 h 5.158851"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9507"
+       d="M 88.77233,87.489393 V 114.91577 H 67.148519"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path9509"
+       d="m 87.507569,84.486012 v 2.488772 c 0.846669,0 0.846669,1.11584 0,1.11584 V 113.50466 H 66.964258"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:transform-center-y="0.12545"
+       inkscape:transform-center-x="-3.6200392"
+       d="m 93.413176,82.604626 6.375223,3.539118 -6.252578,3.751547 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.0640183"
+       sodipodi:arg1="-2.1112158"
+       sodipodi:r2="2.1049316"
+       sodipodi:r1="4.2098627"
+       sodipodi:cy="86.214554"
+       sodipodi:cx="95.579132"
+       sodipodi:sides="3"
+       id="path9513"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.84666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9515"
+       d="m 98.499678,84.994182 h 3.668882"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5)" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(-1)"
+       id="path9517"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-88.774567"
+       cy="-87.456367"
+       r="0.41217431" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(-1)"
+       id="path9519"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-87.502037"
+       cy="-84.469002"
+       r="0.41217431" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:connector-curvature="0"
+       id="path9521"
+       d="M 52.423538,114.63851 H 21.735218 V 89.515773 h 3.95113"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleOutM-5-0)" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(-1)"
+       id="path9529"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-67.719208"
+       cy="-85.888252"
+       r="0.41217431" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(-1)"
+       id="path9531"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-59.067776"
+       cy="-85.886971"
+       r="0.41217431" />
+    <circle
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       transform="scale(-1)"
+       id="path9533"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-48.018276"
+       cy="-85.887093"
+       r="0.41217431" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       x="42.534237"
+       y="129.75166"
+       id="text9555"
+       transform="scale(0.99956589,1.0004343)"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863"><tspan
+         sodipodi:role="line"
+         id="tspan9557"
+         x="42.534237"
+         y="129.75166"
+         style="font-weight:bold;font-size:5.07999992px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222221">ΣΔ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 46.535598,122.81799 -1.411131,1.41111 -1.4111,-1.41111"
+       id="path9561"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path9563"
+       d="m 53.308929,128.18021 h 6.773339 v -7.33777"
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS-27)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.977808,129.07895 0.56446,-1.84441"
+       id="path9565"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863" />
+    <path
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-5-2)"
+       d="m 45.171727,114.72757 v 6.67931"
+       id="path9567"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863" />
+    <circle
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27478287;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path9569"
+       transform="scale(-1)"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863"
+       cx="-45.161709"
+       cy="-114.64161"
+       r="0.41217431" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS-27)"
+       d="m 34.117808,128.18021 h 3.66889"
+       id="path9571"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9573"
+       d="m 34.964468,129.07895 0.56446,-1.84441"
+       style="fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="103.86905"
+       y="87.761055"
+       id="text9589"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863"><tspan
+         sodipodi:role="line"
+         id="tspan9591"
+         x="103.86905"
+         y="87.761055"
+         style="font-weight:normal;font-size:3.95111108px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:0.28222224">OUT</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5)"
+       d="m 98.499678,87.251963 h 3.668882"
+       id="path9599"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3610"
+       width="14.111112"
+       height="11.288891"
+       x="38.497585"
+       y="122.47366"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="9.8265038"
+       y="85.686028"
+       id="text3614"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863"><tspan
+         sodipodi:role="line"
+         id="tspan3612"
+         x="9.8265038"
+         y="85.686028"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.08000088px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224">REF</tspan></text>
+    <text
+       inkscape:export-ydpi="800.40863"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       id="text3618"
+       y="85.686028"
+       x="9.8265038"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.08000088px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224"
+         y="85.686028"
+         x="9.8265038"
+         id="tspan3616"
+         sodipodi:role="line">REF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="28.024197"
+       y="129.59789"
+       id="text3622"
+       inkscape:export-filename="I:\Documents\Patents\P3_HybridArch\Inkscape\FracN.png"
+       inkscape:export-xdpi="800.40863"
+       inkscape:export-ydpi="800.40863"><tspan
+         sodipodi:role="line"
+         id="tspan3620"
+         x="28.024197"
+         y="129.59789"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.08000088px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224">N</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="299.93771mm"
+   height="165.13762mm"
+   viewBox="0 0 299.93771 165.13762"
+   version="1.1"
+   id="svg2842"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BlockDiagram.svg">
+  <defs
+     id="defs2836">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker62267"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path62269"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker68363"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path68365"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker76355"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path76357"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker73212"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path73214"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker74674"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path74676"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-17-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5210-5-4-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker66357"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path66359"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker58452"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path58454"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker59410"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path59412"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5486"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker65309"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path65311"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker64279"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path64281"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker63267"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path63269"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker60380"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path60382"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker69375"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path69377"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker67357"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path67359"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker57494"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path57496"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="61.097111"
+     inkscape:cy="214.92823"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1136"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(47.915277,-40.562142)">
+    <path
+       style="display:inline;opacity:0.38652481;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       d="m 47.079323,89.698154 h 39.51963 V 205.69976 H 4.6525925 V 147.88938 H 47.079323 Z"
+       id="rect8129-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7951-4"
+       width="48.197914"
+       height="21.618979"
+       x="10.62704"
+       y="176.07132"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7957-9"
+       width="17.929308"
+       height="17.657251"
+       x="116.16799"
+       y="130.20253"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       x="158.8625"
+       y="57.597916"
+       id="text7965"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         sodipodi:role="line"
+         id="tspan7967"
+         x="158.8625"
+         y="57.597916"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221">Dual</tspan><tspan
+         sodipodi:role="line"
+         x="158.8625"
+         y="68.181252"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         id="tspan63239">LC-tank</tspan><tspan
+         sodipodi:role="line"
+         x="158.8625"
+         y="78.76458"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         id="tspan63245">with</tspan><tspan
+         sodipodi:role="line"
+         x="158.8625"
+         y="89.347916"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         id="tspan63247">varactor</tspan><tspan
+         sodipodi:role="line"
+         x="158.8625"
+         y="99.931244"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         id="tspan63249">folding</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2.55856156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       id="path7973-8"
+       sodipodi:sides="3"
+       sodipodi:cx="665"
+       sodipodi:cy="255"
+       sodipodi:r1="29.154758"
+       sodipodi:r2="14.57738"
+       sodipodi:arg1="-2.1112158"
+       sodipodi:arg2="-1.0640183"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 650,230 44.15063,24.50962 -43.30127,25.98076 z"
+       transform="matrix(0.44100935,0,0,0.44143099,-95.437107,-30.660156)"
+       inkscape:transform-center-x="-11.056085"
+       inkscape:transform-center-y="0.38349024"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 180.63472,77.048984 h 10.58424"
+       id="path7975-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 180.73251,86.340674 h 10.48645"
+       id="path7977-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 189.45493,86.319054 V 140.6571 h -8.62657"
+       id="path7979-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.04481,77.048984 v 7.94577 c 1.32303,0 1.32303,2.64857 0,2.64857 v 48.975346 h -4.35158"
+       id="path7981-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker57494)"
+       d="M 72.335803,101.10402 H 137.89099"
+       id="path7987-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker67357)"
+       d="M -14.498107,71.310394 H -2.0833775"
+       id="path7989-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       x="-17.012524"
+       y="68.823715"
+       id="text7991"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         sodipodi:role="line"
+         id="tspan7993"
+         x="-17.012524"
+         y="68.823715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222221">Ref</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.55856156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       id="path8011-5"
+       sodipodi:sides="3"
+       sodipodi:cx="665"
+       sodipodi:cy="255"
+       sodipodi:r1="29.154758"
+       sodipodi:r2="14.57738"
+       sodipodi:arg1="-2.1112158"
+       sodipodi:arg2="-1.0640183"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 650,230 44.15063,24.50962 -43.30127,25.98076 z"
+       transform="matrix(0.44100935,0,0,0.44143099,-87.939927,-30.218756)"
+       inkscape:transform-center-x="-11.056147"
+       inkscape:transform-center-y="0.38346461"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="101.17108"
+       cx="66.859764"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="path8025-7"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="101.17108"
+       cx="66.859764"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8027-3"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69375)"
+       d="m 39.468283,101.21513 h 21.30869"
+       id="path8031-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       transform="scale(0.99681578,1.0031944)"
+       id="text8035"
+       y="103.75193"
+       x="64.694344"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:7.94196272px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224"
+         y="103.75193"
+         x="64.694344"
+         id="tspan8037"
+         sodipodi:role="line">+</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.84666669;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8043-5"
+       width="22.050467"
+       height="17.657244"
+       x="92.387383"
+       y="146.78329"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       transform="scale(0.99908843,1.0009124)"
+       id="text8045"
+       y="157.68376"
+       x="98.383789"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222221"
+         y="157.68376"
+         x="98.383789"
+         id="tspan8047"
+         sodipodi:role="line">ΣΔ</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.252943,147.04698 -2.20506,2.20714 -2.20503,-2.20714"
+       id="path8049-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 96.153073,139.5901 v 5.71255"
+       id="path8051-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="1.0861235"
+       rx="1.085086"
+       cy="140.09624"
+       cx="-96.15612"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46293101;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path8053-0"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="0.79895353"
+       rx="0.79819041"
+       cy="157.13818"
+       cx="-15.094151"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="path8067-4"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       y="146.78329"
+       x="92.387383"
+       height="17.657244"
+       width="22.050467"
+       id="rect8069-1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path8075-1"
+       d="m 98.252943,147.04698 -2.20506,2.20714 -2.20503,-2.20714"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8077-5"
+       d="m 96.153073,139.5901 v 6.36937"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker60380)" />
+    <ellipse
+       ry="1.0861235"
+       rx="1.085086"
+       cy="140.09624"
+       cx="-96.15612"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       transform="scale(-1,1)"
+       id="path8079-2"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46293101;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path8081-3"
+       d="m 114.60905,156.94519 h 9.09113 v -7.71651"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker63267)" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:connector-curvature="0"
+       id="path8083-5"
+       d="m 120.50157,154.73801 -2.20506,4.41433 v 0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.28222224px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <ellipse
+       ry="0.79895353"
+       rx="0.79819041"
+       cy="157.13818"
+       cx="-15.094151"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8085-4"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker64279)"
+       d="M 66.859793,117.40103 V 107.32546"
+       id="path8089-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8091-2"
+       d="m 48.148413,124.02777 h 11.30884"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker65309)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8093-0"
+       d="M 40.440093,60.492394 H 137.62423"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+    <ellipse
+       ry="0.79895353"
+       rx="0.79819041"
+       cy="71.265381"
+       cx="-15.094151"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="path8095-06"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text8097"
+       y="58.039093"
+       x="99.85408"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         id="tspan8099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111078px;line-height:120.00000477%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="58.039093"
+         x="99.85408"
+         sodipodi:role="line">Analog</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111078px;line-height:120.00000477%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="67.352425"
+         x="99.85408"
+         sodipodi:role="line"
+         id="tspan62215">proportional path</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       x="105.95436"
+       y="98.579498"
+       id="text8103"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         sodipodi:role="line"
+         x="105.95436"
+         y="98.579498"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.94196224px;line-height:120.00000477%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         id="tspan8105">Digital</tspan><tspan
+         id="tspan8107"
+         sodipodi:role="line"
+         x="105.95436"
+         y="108.10986"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.94196224px;line-height:120.00000477%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221">Integral path</tspan></text>
+    <ellipse
+       ry="1.0861235"
+       rx="1.085086"
+       cy="86.319397"
+       cx="-189.4407"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46293101;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path8117-8"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="1.0861235"
+       rx="1.085086"
+       cy="77.031677"
+       cx="-185.05154"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       transform="scale(-1,1)"
+       id="path8119-5"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46293101;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text8131"
+       y="173.14687"
+       x="33.90575"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         id="tspan8135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="173.14687"
+         x="33.90575"
+         sodipodi:role="line">Chirp</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.115143,193.96021 6.88842,-12.14932 6.88843,12.14932"
+       id="path65354-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="157.61554"
+       cx="78.713097"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path65371-9"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="157.61554"
+       cx="78.713097"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="path65373-8"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="76.588264"
+       y="160.01724"
+       id="text65375"
+       transform="scale(0.99681578,1.0031944)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan65377"
+         x="76.588264"
+         y="160.01724"
+         style="font-weight:bold;font-size:7.94196272px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224">+</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path65379-3"
+       d="m 59.112563,186.53424 h 19.60056 V 164.9515"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker59410)" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="123.74887"
+       cx="66.295311"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="path65381-7"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       ry="5.5178876"
+       rx="5.5126166"
+       cy="123.74887"
+       cx="66.295311"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path65383-7"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       transform="matrix(0.7331212,0.67540727,-0.6797292,0.73781245,0,0)"
+       id="text65385"
+       y="48.865799"
+       x="130.73314"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:7.94196272px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28222224"
+         y="48.865799"
+         x="130.73314"
+         id="tspan65387"
+         sodipodi:role="line">+</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path65393-4"
+       d="m 27.924053,193.96021 6.88842,-12.14932 6.88842,12.14932"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 41.586233,193.96021 6.88842,-12.14932 6.88842,12.14932"
+       id="path65395-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker58452)"
+       d="m 84.398293,157.33 h 6.75241"
+       id="path65397-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker66357)"
+       d="m 66.295343,186.53424 v -28.03778 c -1.80739,-0.13265 -1.7377,-2.73295 0,-2.7352 v -14.46777 c -1.66043,-0.15999 -1.95916,-2.68349 0,-2.77794 v -7.40815"
+       id="path65399-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <ellipse
+       ry="1.0861235"
+       rx="1.085086"
+       cy="186.53531"
+       cx="-66.240562"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46293101;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path65401-9"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text8061-6"
+       y="120.83002"
+       x="22.709766"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.28222221"
+         y="120.83002"
+         x="22.709766"
+         id="tspan8063-1"
+         sodipodi:role="line">Scale to K<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;font-family:Arial;-inkscape-font-specification:Arial;baseline-shift:sub;fill:#ff0000;stroke-width:0.28222221"
+   id="tspan65431">vco</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.28222221"
+         y="130.5314"
+         x="22.709766"
+         sodipodi:role="line"
+         id="tspan8065-4">(From SPI)</tspan></text>
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text8061-6-2"
+       y="178.101"
+       x="-22.362133"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"
+       transform="scale(0.99952232,1.0004779)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.28222221"
+         y="178.101"
+         x="-22.362133"
+         sodipodi:role="line"
+         id="tspan8065-4-2">Programmable</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.28222221"
+         y="187.80238"
+         x="-22.362133"
+         sodipodi:role="line"
+         id="tspan63255">freq, amplitude</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.28222221"
+         y="197.50377"
+         x="-22.362133"
+         sodipodi:role="line"
+         id="tspan65486">(From SPI)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8091-1-5"
+       d="m 5.9388225,186.78807 h 2.47947"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-17-0)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       ry="0.18332899"
+       y="41.126587"
+       x="-1.4665879"
+       height="71.070381"
+       width="41.165382"
+       id="rect62146"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       rx="0.18332899" />
+    <text
+       transform="scale(0.99952232,1.0004779)"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text62148"
+       y="63.780472"
+       x="19.158741"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"><tspan
+         id="tspan62154"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="63.780472"
+         x="19.158741"
+         sodipodi:role="line">Hybrid</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="74.363808"
+         x="19.158741"
+         sodipodi:role="line"
+         id="tspan62161">analog/</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="84.947136"
+         x="19.158741"
+         sodipodi:role="line"
+         id="tspan62165">digital</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222221"
+         y="95.530472"
+         x="19.158741"
+         sodipodi:role="line"
+         id="tspan8104">control</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.69999999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect63253"
+       width="41.165382"
+       height="71.070381"
+       x="139.08008"
+       y="41.126587"
+       ry="0.18332899"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       rx="0.18332899" />
+    <g
+       transform="matrix(0.28222223,0,0,0.28222223,121.66778,136.07166)"
+       id="g12329"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         x="-6.6348777"
+         y="20.603849"
+         style="font-style:normal;font-weight:normal;font-size:14.99901485px;line-height:0%;font-family:'Times New Roman';text-align:start;text-anchor:start;fill:#000000"
+         id="text12331"><tspan
+           id="tspan12333"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">÷N</tspan></text>
+      <text
+         xml:space="preserve"
+         x="8.2494583"
+         y="13.476891"
+         style="font-style:normal;font-weight:normal;font-size:14.99901485px;font-family:'Times New Roman';text-align:start;text-anchor:start;fill:#000000"
+         id="text12337" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker74674)"
+       d="m 214.37711,79.579104 h 5.68956"
+       id="path16956-8-2-22-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:connector-curvature="0"
+       id="path16968-16-9-00-4-2"
+       d="m 214.01714,84.659104 h 6.04953"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker73212)"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text26355-6-9"
+       y="76.134613"
+       x="237.14444"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       xml:space="preserve"><tspan
+         id="tspan26359-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224"
+         y="76.134613"
+         x="238.22069"
+         sodipodi:role="line">26GHz </tspan><tspan
+         id="tspan26363-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224"
+         y="83.895721"
+         x="238.22069"
+         sodipodi:role="line">down to </tspan><tspan
+         id="tspan26365-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224"
+         y="91.656837"
+         x="237.14444"
+         sodipodi:role="line">1GHz</tspan></text>
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       y="130.20253"
+       x="139.31021"
+       height="17.657251"
+       width="41.985043"
+       id="rect73196"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12888896;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="g73198"
+       transform="matrix(0.28222223,0,0,0.28222223,144.80999,136.07166)">
+      <text
+         id="text73200"
+         style="font-style:normal;font-weight:normal;font-size:14.99901485px;line-height:0%;font-family:'Times New Roman';text-align:start;text-anchor:start;fill:#000000"
+         y="18.603849"
+         x="-12.634878"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+           id="tspan73202">prescaler</tspan></text>
+      <text
+         id="text73204"
+         style="font-style:normal;font-weight:normal;font-size:14.99901485px;font-family:'Times New Roman';text-align:start;text-anchor:start;fill:#000000"
+         y="13.476891"
+         x="8.2494583"
+         xml:space="preserve" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="7.0933485"
+       y="154.63232"
+       id="text74662"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         id="tspan74664"
+         sodipodi:role="line"
+         x="7.093348"
+         y="154.63232"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.28222224">Divide Ratio</tspan><tspan
+         sodipodi:role="line"
+         x="7.0933475"
+         y="164.33371"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.28222224"
+         id="tspan74666">{10-int, 24-frac}</tspan></text>
+    <text
+       transform="scale(0.99952232,1.0004779)"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="text76196"
+       y="78.397186"
+       x="-15.51521"
+       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111078px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.28222221"
+         y="78.397186"
+         x="-15.51521"
+         id="tspan76198"
+         sodipodi:role="line">FB</tspan></text>
+    <ellipse
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse76236"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       cx="5.0799818"
+       cy="186.73695"
+       rx="0.79819041"
+       ry="0.79895353" />
+    <ellipse
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="ellipse76238"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="5.0799818"
+       cy="186.73695"
+       rx="0.79819041"
+       ry="0.79895353" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       x="121.79494"
+       y="155.66496"
+       id="text74662-3"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         id="tspan74664-0"
+         sodipodi:role="line"
+         x="122.87119"
+         y="155.66496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.28222224"> </tspan><tspan
+         sodipodi:role="line"
+         x="121.79494"
+         y="165.36635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.28222224"
+         id="tspan74666-3">10</tspan></text>
+    <ellipse
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse76267"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       cx="47.204678"
+       cy="124.00621"
+       rx="0.79819041"
+       ry="0.79895353" />
+    <ellipse
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       id="ellipse76269"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="47.204678"
+       cy="124.00621"
+       rx="0.79819041"
+       ry="0.79895353" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="154.67828"
+       y="157.24925"
+       id="text76343"><tspan
+         sodipodi:role="line"
+         id="tspan76345"
+         x="154.67828"
+         y="157.24925"
+         style="font-size:11.28888893px;line-height:1.25;stroke-width:0.28222224px"> </tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker76355)"
+       d="m 139.34923,139.88631 h -4.35676"
+       id="path76353"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker68363)"
+       d="M 116.08762,139.94519 H -10.217527 V 80.371734 h 7.9381795"
+       id="path7983-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:connector-curvature="0"
+       id="path8059-5"
+       d="m -13.895977,157.18748 85.99288,0.008"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker62267)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="104.35027"
+       y="177.78088"
+       id="text7558"><tspan
+         sodipodi:role="line"
+         id="tspan7560"
+         x="106.14723"
+         y="177.78088"
+         style="font-size:11.28888893px;line-height:1.25;stroke-width:0.28222224px"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.93213"
+       y="193.73511"
+       id="text7562"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Box Sync\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG1.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan7564"
+         x="135.99054"
+         y="193.73511"
+         style="font-size:6.0888238px;line-height:1.25;stroke-width:0.28222224px">Digital circuitry to support </tspan><tspan
+         sodipodi:role="line"
+         x="134.93213"
+         y="201.34613"
+         id="tspan7566"
+         style="font-size:6.0888238px;line-height:1.25;stroke-width:0.28222224px">chirp generation</tspan></text>
+  </g>
+</svg>

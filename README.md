@@ -1,2 +1,2 @@
 # FerrissPresentation
-Selection of some of my publications while at IBM
+Selection from some of my presentations while at IBM

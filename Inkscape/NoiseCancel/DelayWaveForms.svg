@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="226.69321mm"
+   height="142.89053mm"
+   viewBox="0 0 226.69321 142.89053"
+   version="1.1"
+   id="svg37433"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="DelayWaveForms.svg">
+  <defs
+     id="defs37427">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5-73-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5210-5-88-3-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37194"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path37192"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37198"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path37196"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37202"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path37200"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37206"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path37204"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5-73-3-54"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5-73-3-54">
+      <path
+         transform="scale(0.4)"
+         style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path27960"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5-73-3-5i"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5-73-3-5i">
+      <path
+         transform="scale(0.4)"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path27954"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5-73-3-5A"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5-73-3-5A">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path27957"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM-5YNsP"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5YNsP"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87045"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM-5YNst"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5YNst"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87057"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker213892"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker213892">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87075" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker213893"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker213893">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87087" />
+    </marker>
+    <marker
+       inkscape:stockid="marker19426V"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19426V"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87093"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker194268"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker194268"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87060"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5cFeuI"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5cFeuI">
+      <path
+         transform="scale(0.4)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87078"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5cFTv"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5cFTv">
+      <path
+         transform="scale(0.4)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87081"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5cFjC"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5cFjC">
+      <path
+         transform="scale(0.4)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87039"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5cFmD"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5cFmD">
+      <path
+         transform="scale(0.4)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87072"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-5cFe1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM-5cFe1">
+      <path
+         transform="scale(0.4)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87063"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-40sVB"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS-40sVB">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87090" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12089-6g4T"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker12089-6g4T">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87048" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12089-6GDi"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker12089-6GDi">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87051" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12089-6saw"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker12089-6saw">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87069" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12089-6dTi"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker12089-6dTi">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87066" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-40Ce5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS-40Ce5">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2)"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path87084" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM-5-2sWk"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-2sWk"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87042"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM-5-27CcT"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5-27CcT"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path87054"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#808080;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1752194"
+     inkscape:cx="428.39662"
+     inkscape:cy="270.02936"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1136"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata37430">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(26.412085,-60.001167)">
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#cccccc;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.175, 1.05833333;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 34.416056,89.917948 83.771614,60.455535"
+       id="path96597-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path96595-2-9"
+       d="M 34.464845,99.109362 61.388263,116.77234"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#cccccc;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.175, 1.05833333;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.630007,79.187612 H 2.6121612 v 18.451249 h 8.9460378"
+       id="path41061-3-9-8-4-6-0-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path20624-49-3-9-4-5-0"
+       d="m 46.640653,94.43002 h 7.319301 v 0 h 1.48045"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleOutM-5-27CcT)" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleOutM-5-2sWk)"
+       d="m 46.640653,81.637813 h 7.319301 v 0 h 1.258332"
+       id="path7324-2-2-2-1-4-3-8-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="23.175961"
+       y="83.404831"
+       id="text9171-1-5-2-3-9-5-3-9-7"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan9173-5-0-3-0-2-7-0-8-5"
+         x="23.175961"
+         y="83.404831"
+         style="font-weight:bold;font-size:5.81182575px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#808080;stroke:none;stroke-width:0.26458335">ΔT<tspan
+   style="font-size:3.77774px;baseline-shift:sub;fill:#808080;stroke:none;stroke-width:0.26458335"
+   id="tspan20384-1-6-1-1-0">o</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       transform="scale(0.99729216,1.0027152)"
+       id="text25532-1-5-2-3-5-9-2-9"
+       y="95.994728"
+       x="23.446747"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:5.81182575px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.26458335"
+         y="95.994728"
+         x="23.446747"
+         id="tspan25534-1-4-9-7-8-0-6-0"
+         sodipodi:role="line">ΔT</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.97395301;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.662789,89.243949 v 11.300801 l 3.874558,-3.228761 v -4.843224 z"
+       id="path5085-0-6-3-6-3-3-5-3-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.659203,76.005892 v 11.300804 l 3.874532,-3.228764 v -4.843224 z"
+       id="path5085-0-4-8-1-8-0-4-8-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.659203,88.921051 v 11.300799 l 3.874532,-3.228784 v -4.843198 z"
+       id="path5085-0-6-5-7-1-8-5-4-8-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS-40Ce5);marker-end:none"
+       d="M 42.062144,92.149868 H 39.546697 V 78.588939"
+       id="path33989-6-1-5-4-1-5-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path35391-9-7-7-5-6-7-0-2"
+       d="m 15.64035,94.732915 c 2.738411,0 4.740169,0 4.740169,0"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12089-6dTi)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12089-6saw)"
+       d="m 15.64035,81.827942 c 2.738411,0 4.740169,0 4.740169,0"
+       id="path36791-3-3-70-1-1-7-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path36793-8-0-8-2-6-0-2-2"
+       d="m 33.948934,78.673236 c 2.738438,0 8.11321,0 8.11321,0"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12089-6GDi)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12089-6g4T)"
+       d="m 33.983357,96.108722 c 2.738437,0 8.078787,0 8.078787,0"
+       id="path36795-1-0-9-8-3-8-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS-40sVB);marker-end:none"
+       d="M 42.062144,83.432111 H 36.847365 V 96.244004"
+       id="path33989-8-0-4-30-5-3-9-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <circle
+       r="0.79443133"
+       cy="96.051491"
+       cx="-36.782082"
+       style="display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.52962095;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path43046-0-8-7-6-5-3-9-2"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <circle
+       r="0.79443133"
+       cy="78.628197"
+       cx="-39.517242"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       transform="scale(-1,1)"
+       id="path43048-1-3-4-0-5-0-4-2"
+       style="display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.52962095;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:none"
+       d="m -3.2960378,79.234681 h 5.9182"
+       id="path13388-9-9-0-7-1-3-7-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:none"
+       d="m -3.1675038,99.843289 h 3.17193096 v -7.14248 H 1.8764602 c 0,-0.968639 1.291511,-0.968639 1.291511,0 h 3.204898"
+       id="path13388-8-6-1-1-8-8-2-4-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <circle
+       r="0.79443133"
+       cy="92.706253"
+       cx="-6.6090512"
+       style="display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.52962095;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path43042-4-0-3-9-8-7-3-1"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <circle
+       r="0.79443133"
+       cy="79.185097"
+       cx="-2.6062763"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       transform="scale(-1,1)"
+       id="path43044-8-3-7-2-2-8-5-7"
+       style="display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.52962095;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       y="77.15493"
+       x="21.218201"
+       height="9.2836866"
+       width="12.939116"
+       id="rect20626-1-7-5-3-1-5"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.64575839;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5cFe1)"
+       d="m 28.002609,104.29186 0.0032,-2.94531"
+       id="path20924-4-6-6-8-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path45365-1-7-2-3-6-6"
+       d="m 13.795913,104.50379 0.0032,-4.696696"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5cFmD)" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5cFjC)"
+       d="m 44.792327,104.68969 0.0032,-5.162313"
+       id="path45367-4-6-1-4-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5cFTv)"
+       d="m 13.795913,90.88291 0.0032,-3.706521"
+       id="path45369-5-3-4-5-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path45371-6-0-6-0-9-9"
+       d="m 44.792327,90.405179 0.0032,-3.551661"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5cFeuI)" />
+    <rect
+       rx="0.20594504"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       ry="0.20594504"
+       y="73.155304"
+       x="-11.276196"
+       height="12.130166"
+       width="8.0867767"
+       id="rect41268-7-0-1-8-8-6-7-8"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.66145831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41270-4-1-1-3-7-7-7-4"
+       d="m -11.27611,81.241996 2.0217082,1.167236 -2.0217082,1.167209"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="0.20594504"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       ry="0.20594504"
+       y="91.513489"
+       x="-11.18292"
+       height="12.130166"
+       width="8.0867767"
+       id="rect41278-0-0-7-9-1-7-8-7"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.66145831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.97395301;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41280-1-5-6-1-2-1-3-8"
+       d="m -11.182844,99.60019 2.0216812,1.16721 -2.0216812,1.16724"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41282-2-9-2-4-5-9-7-3"
+       d="m -11.182844,94.620944 -2.725579,-0.05734 v -3.050196"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41284-9-0-1-9-7-1-1-1"
+       d="m -15.088941,91.513386 h 2.176145"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41290-5-9-6-1-4-6-0-1"
+       d="M -5.2110128,91.132492 V 86.680639"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker194268)" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text41292-1-3-1-7-4-2-7-2"
+       y="84.353912"
+       x="-6.686296"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23471093px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#808080;stroke:none;stroke-width:0.26458332"
+         y="84.353912"
+         x="-6.686296"
+         id="tspan41294-5-5-1-6-4-7-3-5"
+         sodipodi:role="line">R</tspan></text>
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text41296-6-4-5-2-4-2-4-7"
+       y="94.988274"
+       x="-6.5661483"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23471093px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#808080;stroke:none;stroke-width:0.26458332"
+         y="94.988274"
+         x="-6.5661483"
+         id="tspan41298-6-2-7-5-4-7-9-6"
+         sodipodi:role="line">R</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker19426V)"
+       d="m -5.2110128,85.997431 v 4.451854"
+       id="path41310-0-7-4-2-2-6-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -4.6442488,88.400087 c 7.9e-5,0.317553 -0.257281,0.575098 -0.574834,0.575098 -0.317579,0 -0.574913,-0.257545 -0.574807,-0.575098 -1.06e-4,-0.317553 0.257228,-0.575019 0.574807,-0.575019 0.317553,0 0.574913,0.257466 0.574834,0.575019 z"
+       id="path41322-8-2-8-2-9-5-5-1"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.3228792;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-6.38063"
+       y="100.93939"
+       id="text41434-4-0-5-8-3-1-1-6"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan41436-6-1-6-6-0-3-0-1"
+         x="-6.38063"
+         y="100.93939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23471093px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#808080;stroke:none;stroke-width:0.26458332">Q</tspan></text>
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text41438-7-1-4-1-7-9-9-1"
+       y="80.275154"
+       x="-6.38063"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23471093px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#808080;stroke:none;stroke-width:0.26458332"
+         y="80.275154"
+         x="-6.38063"
+         id="tspan41440-7-7-9-5-7-9-9-5"
+         sodipodi:role="line">Q</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path42464-2-0-2-8-7"
+       d="m 11.51584,84.723674 -4.8961938,-5.3e-5 v 8.071989 l 4.8961938,2.6e-5"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41312-7-9-3-9-2-6-3-4"
+       d="M 51.305548,81.310285 V 68.033149 H 33.260674"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:none" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="ccccscc"
+       d="m 27.505404,73.469384 c 2.075312,0 5.494893,0 5.494893,0 v -7.518956 l -5.494893,-2.64e-4 c -2.075365,0 -3.759729,1.684337 -3.759729,3.759676 0,2.075339 1.684364,3.759703 3.759729,3.759703 z"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:square;stroke-miterlimit:3.97395301;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path41286-3-4-2-6-3-5-4-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.3228792;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path41288-8-1-5-8-8-3-8-5"
+       d="m 51.89115,81.678135 c 1.06e-4,0.317553 -0.257254,0.575045 -0.574807,0.575045 -0.317579,0 -0.574913,-0.257492 -0.574834,-0.575045 -7.9e-5,-0.317553 0.257255,-0.575019 0.574834,-0.575019 0.317553,0 0.574913,0.257466 0.574807,0.575019 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 50.077881,94.460156 c 1.06e-4,0.317553 -0.25728,0.575046 -0.574833,0.575046 -0.31758,0 -0.574913,-0.257493 -0.574808,-0.575046 -1.05e-4,-0.317553 0.257228,-0.575045 0.574808,-0.575045 0.317553,0 0.574939,0.257492 0.574833,0.575045 z"
+       id="path41314-9-2-8-0-5-2-4-6"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.3228792;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:none"
+       d="M 49.544058,94.06643 V 70.369394 H 33.196115"
+       id="path41316-1-6-3-6-2-4-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path41318-5-3-2-4-0-4-9-9"
+       d="M 23.696542,69.583554 H -0.02316884 v 8.551307 c -1.82223796,0.0064 -1.74646196,2.345876 0,2.377679 v 7.859845 H -5.3734408"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:none" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text21223-6-7-2-2-8"
+       y="85.542725"
+       x="22.607006"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan21225-6-2-7-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93727529px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         y="85.542725"
+         x="22.607006"
+         sodipodi:role="line">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+       x="23.065891"
+       y="98.104744"
+       id="text21227-3-9-9-5-3"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="23.065891"
+         y="98.104744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93727529px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+         id="tspan21229-5-7-2-3-2">R</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path21231-2-4-5-3-3-5"
+       d="m 20.43124,97.746096 -1.695609,-0.01561 v -2.340478 c -0.967105,-0.01482 -1.097651,-1.315508 0,-1.284235 V 82.509191 c -1.229545,0.03098 -1.415759,-1.420495 0,-1.405122 V 69.664834"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker213893);marker-end:none" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.3228792;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path21233-4-1-3-7-3-3"
+       d="m 19.300278,69.683487 c 7.9e-5,0.317553 -0.257281,0.575046 -0.574834,0.575046 -0.317579,0 -0.574913,-0.257493 -0.574807,-0.575046 -1.06e-4,-0.317552 0.257228,-0.575045 0.574807,-0.575045 0.317553,0 0.574913,0.257493 0.574834,0.575045 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#marker213892);marker-end:none"
+       d="M 20.576655,84.977542 H 18.671178"
+       id="path39691-8-4-3-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 19.311311,84.956614 c 1.06e-4,0.317552 -0.257281,0.575045 -0.574807,0.575045 -0.317606,0 -0.57494,-0.257493 -0.574834,-0.575045 -1.06e-4,-0.317553 0.257228,-0.575046 0.574834,-0.575046 0.317526,0 0.574913,0.257493 0.574807,0.575046 z"
+       id="path39693-8-3-1-4-3"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.3228792;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       y="89.958931"
+       x="21.218201"
+       height="9.2836866"
+       width="12.939116"
+       id="rect156761-1-1-1"
+       style="display:inline;fill:none;stroke:none;stroke-width:0.26458332" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path156763-0-9-9"
+       d="m 42.659203,76.005892 v 11.300804 l 3.874532,-3.228764 v -4.843224 z"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path156765-6-8-5"
+       d="m 42.659203,88.921051 v 11.300799 l 3.874532,-3.228784 v -4.843198 z"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect156767-4-9-3"
+       width="12.939116"
+       height="9.2836866"
+       x="21.218201"
+       y="77.15493"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.66145831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.97395301;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.662789,76.328763 v 11.300804 l 3.874558,-3.228764 v -4.84325 z"
+       id="path5085-0-8-0-0-3-2-3-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -11.27611,81.241996 2.0217082,1.167236 -2.0217082,1.167209"
+       id="path79226"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-5YNst)"
+       d="m -13.735729,100.83955 1.821232,0.037"
+       id="path79232"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="0.58438456"
+       cy="100.82946"
+       cx="-14.327461"
+       style="display:inline;opacity:0.98999999;fill:#ffffff;fill-opacity:0;stroke:#808080;stroke-width:0.3228792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path79234"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="ccc"
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -11.182844,76.629276 -2.725579,-0.05733 V 73.52175"
+       id="path79246"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       style="display:inline;fill:none;stroke:#808080;stroke-width:0.3228792;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94790602;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -15.088941,73.521719 h 2.176145"
+       id="path79248"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path79250"
+       d="m -13.735729,82.847884 1.821232,0.03696"
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#808080;stroke-width:0.3228792px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-5YNsP)" />
+    <circle
+       r="0.58438456"
+       cy="82.837799"
+       cx="-14.327461"
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="path79252"
+       style="display:inline;opacity:0.98999999;fill:#ffffff;fill-opacity:0;stroke:#808080;stroke-width:0.3228792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.493309"
+       y="79.91497"
+       id="text62442-5-3-1-6"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="56.493309"
+         y="79.91497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083321px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.26458332"
+         id="tspan62444-7-8-8-0">UP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.918999"
+       y="100.01768"
+       id="text62446-8-8-2-3"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="58.918999"
+         y="100.01768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083321px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.26458332"
+         id="tspan62448-5-8-6-8">DWN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-18.926634"
+       y="100.87157"
+       id="text19027-6-2-5-1-0-9-4-7-0-9-8-2-78-0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan19029-13-6-7-0-7-4-1-7-6-1-3-0-8-1"
+         x="-18.926634"
+         y="100.87157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083321px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.26458332">FB</tspan><tspan
+         sodipodi:role="line"
+         x="-18.926634"
+         y="106.6924"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083321px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.26458332"
+         id="tspan6045-6-9-7-2-7-6-8-4-7-2-2">CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-17.227255"
+       y="81.64122"
+       id="text62458-1-0-5"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="-17.227255"
+         y="81.64122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82083321px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.26458332"
+         id="tspan62460-1-6-0">Ref</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25530-5-5-1-3-6-2-8-5"
+       width="12.939116"
+       height="9.2836866"
+       x="21.218201"
+       y="89.958931"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       style="display:inline;opacity:0.98999999;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+       id="rect77972"
+       width="2.5588164"
+       height="8.5428658"
+       x="114.55927"
+       y="147.11331" />
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       y="147.11333"
+       x="32.712074"
+       height="8.5428658"
+       width="4.2212601"
+       id="rect77970"
+       style="display:inline;opacity:0.98999999;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8237-8-2-5-3-9-8-6-4-5-3-7"
+       d="M 32.756563,170.55945 V 129.05322"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.87595958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94111109;stroke-dasharray:0.87595958, 1.75191915;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.87595958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94111109;stroke-dasharray:0.87595958, 1.75191915;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 114.74458,170.55945 V 129.05322"
+       id="path52358-7-4-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path8103-6-5-7-1-2-4-9-8-8-8-5-1"
+       d="m 15.133382,141.08621 h 17.767644 v -8.24926 h 33.087177 v 8.24926 h 48.751517 v -8.24926 h 35.03345 v 8.24926 h 48.24161"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path21632-8-0-9-9-7-5-40"
+       d="m 49.255636,170.60178 0.300143,-41.54856"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.87595958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94111109;stroke-dasharray:0.87595958, 1.75191915;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="2.950063"
+       y="138.34563"
+       id="text11944-0-2-7-6-9"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="2.9500632"
+         y="138.34563"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.26458335"
+         id="tspan11946-7-0-0-6-4">START</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="-4.6246691"
+       y="167.89983"
+       id="text25055-2-6-7-8-1-8"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan25057-5-3-0-9-4-82"
+         x="-4.6246691"
+         y="167.89983"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008000;stroke-width:0.26458335">DONE</tspan></text>
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       transform="scale(0.99729216,1.0027152)"
+       id="text30674-6-60-3-4-4"
+       y="173.46286"
+       x="2.9438622"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"
+         y="173.46286"
+         x="3.8244286"
+         id="tspan30676-1-7-0-6-5"
+         sodipodi:role="line"> </tspan><tspan
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"
+         y="181.40036"
+         x="2.9438617"
+         sodipodi:role="line"
+         id="tspan30680-5-0-7-2-5">RESET</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.133382,170.71955 h 34.236686 v -8.24926 h 16.618135 v 8.24926 h 66.324957 v -8.24926 h 17.46001 v 8.24926 h 48.24161"
+       id="path52247-5-4-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path52249-6-7-8-71"
+       d="m 15.133382,183.94871 h 43.934194 v -8.24926 h 22.375758 v 8.24926 h 60.567326 v -8.24926 h 24.22994 v 8.24926 h 31.77418"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="-6.7919779"
+       y="185.12164"
+       id="text25059-0-4-7-8-2-1"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan25061-9-2-3-3-5-5"
+         x="-5.9114113"
+         y="185.12164"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"> </tspan><tspan
+         id="tspan30457-9-8-7-5-2"
+         sodipodi:role="line"
+         x="-6.7919774"
+         y="193.05914"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335">Ring/Counter</tspan><tspan
+         id="tspan18104-7"
+         sodipodi:role="line"
+         x="-6.7919779"
+         y="200.99664"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335">settings</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.133382,200.66514 h 71.042952 l 7.03379,-9.61983 h 83.438496 l 7.54065,9.61983 h 13.82551"
+       id="path52332-7-4-7-61"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text8280-4-6-3-8-5-6-1-7-5-6-4"
+       y="129.52876"
+       x="40.504364"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         dy="0"
+         y="129.52876"
+         x="40.504364"
+         id="tspan8282-1-8-1-2-0-6-2-4-0-0-2"
+         sodipodi:role="line"
+         style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;stroke-width:0.26458332">t<tspan
+   dy="0.90077978"
+   id="tspan3361-4-5-2-3-6-7-0-5-1-0-3"
+   style="font-size:4.12755823px;font-family:sans-serif;baseline-shift:sub;stroke-width:0.26458332">1</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.87595958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.94111109;stroke-dasharray:0.87595958, 1.75191915;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 132.12525,170.60178 0.30014,-41.54856"
+       id="path52360-9-5-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="123.67576"
+       y="129.30397"
+       id="text52362-83-6-3-1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan52364-0-2-3-6"
+         x="123.67576"
+         y="129.30397"
+         dy="0">t<tspan
+   style="font-size:4.12755823px;font-family:sans-serif;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan52368-2-0-6-8">2</tspan></tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path52374-2-3-2-5"
+       d="m 15.133382,191.04531 h 71.042952 l 7.03379,9.61986 h 83.438496 l 7.54065,-9.61986 h 13.82551"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text8280-4-6-3-8-5-6-1-0-3-5-8-7"
+       y="197.45976"
+       x="29.21487"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="197.45976"
+         x="29.21487"
+         id="tspan8282-1-8-1-2-0-6-2-1-6-6-2-6"
+         sodipodi:role="line"
+         style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;stroke-width:0.26458332"
+         dy="0 0 0.25586006">t<tspan
+   style="font-size:4.12755823px;font-family:sans-serif;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan52400-71-6-3-1"
+   dy="-0.25586006">1</tspan> control settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.86108"
+       y="197.28067"
+       id="text52402-5-6-4-8"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         dy="0 0 0.25586006"
+         style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan52404-5-7-3-9"
+         x="118.86108"
+         y="197.28067">t<tspan
+   style="font-size:4.12755823px;font-family:sans-serif;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan52414-4-6-4-2">2</tspan> control settings</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.133382,155.7596 h 21.7347 v -8.24926 h 2.259224 v 8.24926 h 2.259172 v -8.24926 h 2.194401 v 8.24926 h 2.406967 l 0.0045,-8.24926 h 2.267268 v 8.24926 h 2.259224 v -8.24926 h 2.194348 v 8.24926 h 2.404587 v -8.24926 h 2.259224 v 8.24926 h 2.259171 v -8.24926 h 2.194401 v 8.24926"
+       id="path17592-7-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       transform="scale(0.99729216,1.0027152)"
+       id="text17745-6-9"
+       y="153.6498"
+       x="6.8940077"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"><tspan
+         id="tspan17747-8-5"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.26458335"
+         y="153.6498"
+         x="6.8940077"
+         sodipodi:role="line">CLK</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path17749-4-4"
+       d="m 68.495951,155.7596 h 48.596969 v -8.24926 h 2.2592 v 8.24926 h 2.25917 v -8.24926 h 2.19443 v 8.24926 h 2.40696 l 0.004,-8.24926 h 2.2673 v 8.24926 h 2.25919 v -8.24926 h 2.19438 v 8.24926 h 2.40458 v -8.24926 h 2.2592 v 8.24926 h 2.25917 v -8.24926 h 2.1944 v 8.24926"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path17762-3-3"
+       d="m 62.04869,155.7596 h 2.259171 v -8.24926 h 2.194401 v 8.24926 h 2.406968"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.94111109;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.2735,155.7596 h 2.25917 v -8.24926 h 2.1944 v 8.24926 h 2.40697 l 0.005,-8.24926 h 2.26727 v 8.24926 h 45.87689"
+       id="path17764-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="112.47491"
+       y="103.08366"
+       id="text30188-5-2-2-4"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="112.47491"
+         y="103.08366"
+         style="font-weight:bold;font-size:6.3499999px;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"
+         id="tspan30192-6-0-5-1">Ring</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="84.403488"
+       y="100.79607"
+       id="text11944-0-2-6-32-1"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="84.403488"
+         y="100.79607"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.26458335"
+         id="tspan11946-7-0-1-6-3">START</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5A)"
+       d="M 72.531852,102.72252 H 95.131954"
+       id="path20952-2-7-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path17476-2-7"
+       d="m 126.26491,102.72252 h 18.7864"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5i)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="136.71115"
+       y="100.79755"
+       id="text11944-0-2-6-3-6-4"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="136.71115"
+         y="100.79755"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.26458335"
+         id="tspan11946-7-0-1-0-6-2">CLK</tspan></text>
+    <rect
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       y="94.045532"
+       x="146.8046"
+       height="15.476566"
+       width="29.536156"
+       id="rect30186-2-0-0-3-7"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="162.05508"
+       y="103.57504"
+       id="text30188-5-2-4-9-79"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="162.05508"
+         y="103.57504"
+         style="font-weight:bold;font-size:6.3499999px;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"
+         id="tspan30192-6-0-8-4-3">Counter</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path17476-1-5-19"
+       d="m 176.49489,102.72252 h 22.28295"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-54)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="189.29503"
+       y="100.76028"
+       id="text11944-0-2-6-3-2-6-8"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         x="189.29503"
+         y="100.76028"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.26458335"
+         id="tspan11946-7-0-1-0-9-2-6">DONE</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17758-7-5"
+       width="29.536156"
+       height="15.476566"
+       x="97.062927"
+       y="94.045532"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5)"
+       d="m 86.411944,136.78877 -48.99792,9.3863"
+       id="path20952-2-6-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path17839-4-5"
+       d="M 161.34128,81.673359 V 92.230526"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="134.53247"
+       y="61.279873"
+       id="text25059-0-4-7-8-2-3-0"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan25061-9-2-3-3-5-6-9"
+         x="135.41304"
+         y="61.279873"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"> </tspan><tspan
+         id="tspan18104-9-0"
+         sodipodi:role="line"
+         x="134.53247"
+         y="69.217369"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335">Ring/Counter settings</tspan><tspan
+         id="tspan18163-1"
+         sodipodi:role="line"
+         x="134.53247"
+         y="77.154869"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335">(from state machine)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="84.285667"
+       y="106.57808"
+       id="text18137-3"
+       transform="scale(0.99729216,1.0027152)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623"><tspan
+         sodipodi:role="line"
+         id="tspan18139-8"
+         x="85.166237"
+         y="106.57808"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335"> </tspan><tspan
+         id="tspan18141-9"
+         sodipodi:role="line"
+         x="84.285667"
+         y="114.51558"
+         style="font-weight:bold;font-size:6.3499999px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.26458335">RESET</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.96863765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.9686376, 1.93727521;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect41744-6-5-1-8-2-3"
+       width="92.714417"
+       height="20.825632"
+       x="89.506531"
+       y="61.194889"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path18165-4"
+       d="M 72.531852,116.10018 H 161.02836 V 110.9888"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5)"
+       sodipodi:nodetypes="ccc" />
+    <text
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       id="text8280-4-6-3-8-5-6-1-7-5-6-4-4"
+       y="126.03053"
+       x="86.800507"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="126.03053"
+         x="86.800507"
+         id="tspan8282-1-8-1-2-0-6-2-4-0-0-2-6"
+         sodipodi:role="line"
+         style="font-size:8.46666622px;line-height:110.00000238%;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332">Delay till first</tspan><tspan
+         id="tspan52720"
+         y="135.34387"
+         x="86.800507"
+         sodipodi:role="line"
+         style="font-size:8.46666622px;line-height:110.00000238%;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332">clk edge</tspan></text>
+    <path
+       inkscape:export-ydpi="400.2623"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:connector-curvature="0"
+       id="path75458"
+       d="m 86.403854,136.7993 27.481736,10.68721"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5-73-3-5)"
+       d="m 110.54128,82.865228 v 9.365298"
+       id="path75478"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSC2015\PRESENTATION\PNG\RING_COUNT3.png"
+       inkscape:export-xdpi="400.2623"
+       inkscape:export-ydpi="400.2623" />
+  </g>
+</svg>

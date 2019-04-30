@@ -1,0 +1,2 @@
+rm -rf Slides.slides.html
+jupyter nbconvert index.ipynb --to slides --post serve
