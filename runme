@@ -1,10 +1,11 @@
-rm -rf index.slides.html
+rm -rf index.html index.slides.html
 jupyter nbconvert index.ipynb --to slides --post serve \
 --SlidesExporter.reveal_theme=serif  \
---SlidesExporter.reveal_scroll=True  \
+--SlidesExporter.reveal_scroll=False  \
 --SlidesExporter.reveal_transition=none
 cp index.slides.html index.html
 
+# --SlidesExporter.reveal_scroll=True  \
 # https://nbconvert.readthedocs.io/en/latest/config_options.html
 # Themes: beige, black, lood, league, moon, night, serif, simple, sky, solarized, white
 
