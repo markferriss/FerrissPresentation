@@ -5,4 +5,4 @@ presentations I've contributed to.
 
 [A Live version can be found here.](https://markferriss.github.io/FerrissPresentation)
 
-![An example image](https://raw.githubusercontent.com/markferriss/FerrissPresentation/master/Inkscape/Folding/Fig4.svg)
+![An example image](https://raw.githubusercontent.com/markferriss/FerrissPresentation/master/Inkscape/Folding/Fig4.png)
