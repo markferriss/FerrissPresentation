@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="93.722145mm"
+   height="124.59452mm"
+   viewBox="0 0 93.722145 124.59452"
+   version="1.1"
+   id="svg4919"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Intro.svg">
+  <defs
+     id="defs4913">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5962"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5956"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9138"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9140"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99844051"
+     inkscape:cx="190.20003"
+     inkscape:cy="175.45766"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4916">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.41869,-54.933651)">
+    <circle
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.38229963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7443-2-7-2-0-6-3"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       cx="-44.788815"
+       cy="129.8894"
+       r="0.69193071" />
+    <circle
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="scale(-1,1)"
+       id="path8556-8-6-7"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.38229963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="-44.788815"
+       cy="148.41225"
+       r="0.69193071" />
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="g55997-8-1"
+       transform="matrix(0,-0.28222223,-0.28222223,0,-150.42519,744.92225)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path55999-3-7"
+         d="m 2152.0542,-743.17817 v -30.3534"
+         style="fill:none;stroke:#000000;stroke-width:1.89918482px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-ydpi="799.83685" />
+      <path
+         inkscape:export-ydpi="799.83685"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path56003-2-8"
+         d="m 2139.6913,-780.25081 h 24.414"
+         style="fill:none;stroke:#000000;stroke-width:2.84877706;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="799.83685"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:2.84877706;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2139.4051,-770.45552 c 10.0381,-5.35997 15.1471,-5.18473 24.6884,-0.18473"
+         id="path56005-3-1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="display:inline;opacity:0.43859648;fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 71.36278,141.13964 -6.632286,-7.11239"
+       id="path56007-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="matrix(0,-0.28222223,0.28222223,0,294.92617,744.92225)"
+       id="g56009-2-9">
+      <path
+         inkscape:export-ydpi="799.83685"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         style="fill:none;stroke:#000000;stroke-width:1.89918482px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 2152.0542,-741.19038 v -32.34119"
+         id="path56011-8-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="799.83685"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         inkscape:connector-curvature="0"
+         id="path56013-1-5"
+         d="m 2152.0542,-780.48152 v -17.14937"
+         style="fill:none;stroke:#000000;stroke-width:1.89918482px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.84877706;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2139.6913,-780.25081 h 24.414"
+         id="path56015-5-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-ydpi="799.83685" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path56017-1-4"
+         d="m 2139.4051,-770.45552 c 10.0381,-5.35997 15.1471,-5.18473 24.6884,-0.18473"
+         style="fill:none;stroke:#000000;stroke-width:2.84877706;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="I:\MARS\MARS_DOCS\JSSC2013\Figures\Figs\Fig10.png"
+         inkscape:export-xdpi="799.83685"
+         inkscape:export-ydpi="799.83685" />
+    </g>
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path56019-7-7"
+       d="m 72.573768,141.13964 6.632278,-7.11239"
+       style="display:inline;opacity:0.43859648;fill:none;stroke:#000000;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:transform-center-x="39.882955"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="path56025-2-6"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="2.1237254e-05"
+       cx="72.213676"
+       cy="137.51709"
+       r="0.78279519" />
+    <g
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="matrix(-0.31503869,0,0,-0.31503869,80.47444,198.47013)"
+       id="g55367-2-1-7"
+       style="display:inline;stroke-width:1.7916671;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1.7916671;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 26.354026,193.43979 v 24.01559 h 7.360737 l 2.41538,3.77166 3.54331,-7.08661 3.5433,7.08661 3.54331,-7.08661 3.54331,7.08661 3.54331,-7.08661 1.36809,3.38264 h 31.942089 9.940892 13.562376"
+         id="path55369-9-8-3"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;stroke-width:3;stroke-miterlimit:3.82333326;stroke-dasharray:none"
+       transform="matrix(0,0.28222223,0.28222223,0,205.00744,-163.4979)"
+       id="g27800-9-2-4">
+      <rect
+         inkscape:export-ydpi="400.2623"
+         inkscape:export-xdpi="400.2623"
+         inkscape:export-filename="E:\Documents\Patents\P3_HybridArch\Inkscape\PropPath.png"
+         transform="rotate(90)"
+         style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="rect27802-8-1-3"
+         y="-1074.4973"
+         x="-523.41626"
+         ry="0.40634274"
+         height="15.441024"
+         width="1.154013"
+         rx="0.40634274" />
+      <rect
+         inkscape:export-ydpi="400.2623"
+         inkscape:export-xdpi="400.2623"
+         inkscape:export-filename="E:\Documents\Patents\P3_HybridArch\Inkscape\PropPath.png"
+         transform="rotate(90)"
+         style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="rect27804-3-9-9"
+         y="-1074.4973"
+         x="-516.90991"
+         ry="0.40634274"
+         height="15.441024"
+         width="1.154013"
+         rx="0.40634274" />
+    </g>
+    <circle
+       inkscape:transform-center-y="2.1237254e-05"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path56100-9-2"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       inkscape:transform-center-x="39.882955"
+       cx="63.747005"
+       cy="137.51709"
+       r="0.78279519" />
+    <g
+       style="display:inline;stroke-width:1.7916671;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g56104-7-4"
+       transform="matrix(0,0.31503869,-0.31503869,0,130.31937,129.44182)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         id="path56106-1-1"
+         d="m 24.931587,211.20392 h 8.783176 l 2.41538,3.77166 3.54331,-7.08661 3.5433,7.08661 3.54331,-7.08661 3.54331,7.08661 3.54331,-7.08661 1.36809,3.38264 h 4.09285"
+         style="fill:none;stroke:#000000;stroke-width:1.7916671;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="matrix(0,0.31503869,0.31503869,0,15.162891,129.44182)"
+       id="g56108-8-5"
+       style="display:inline;stroke-width:1.7916671;stroke-miterlimit:3.82333326;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1.7916671;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         d="m 26.318884,211.20392 h 7.395879 l 2.41538,3.77166 3.54331,-7.08661 3.5433,7.08661 3.54331,-7.08661 3.54331,7.08661 3.54331,-7.08661 1.36809,3.38264 h 5.159484 v -81.99866 -10.2584 -22.371254"
+         id="path56110-2-2"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <circle
+       inkscape:transform-center-x="39.882955"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="path56112-4-3"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="2.1237254e-05"
+       cx="63.747005"
+       cy="148.42189"
+       r="0.78279519" />
+    <circle
+       inkscape:transform-center-x="-39.882884"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="scale(-1,1)"
+       id="path56134-1-9"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="-3.5195496e-05"
+       cx="-50.763504"
+       cy="137.51511"
+       r="0.78279519" />
+    <g
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:5.15697861;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.10122489,0,0,0.1067183,-48.398836,74.145381)"
+       id="g4634-1-2-7">
+      <path
+         transform="matrix(1.1526379,0,0,1,172.79705,-197.64025)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:4.80340147;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="path4636-4-1-3"
+         sodipodi:cx="882.5"
+         sodipodi:cy="322.5"
+         sodipodi:rx="42.5"
+         sodipodi:ry="42.5"
+         d="M 840,322.5 A 42.5,42.5 0 0 1 882.5,280 42.5,42.5 0 0 1 925,322.5"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+      <path
+         transform="translate(355.0249,-197.67177)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:5.15697861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="path4638-6-1-7"
+         sodipodi:cx="882.5"
+         sodipodi:cy="322.5"
+         sodipodi:rx="42.5"
+         sodipodi:ry="42.5"
+         d="M 840,322.5 A 42.5,42.5 0 0 1 882.5,280 42.5,42.5 0 0 1 925,322.5"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+      <path
+         transform="translate(259.99998,-197.62729)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:5.15697861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="path4640-2-3-4"
+         sodipodi:cx="882.5"
+         sodipodi:cy="322.5"
+         sodipodi:rx="42.5"
+         sodipodi:ry="42.5"
+         d="M 840,322.5 A 42.5,42.5 0 0 1 882.5,280 42.5,42.5 0 0 1 925,322.5"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+      <path
+         transform="matrix(0.51764701,0,0,-0.51764701,706.14268,291.81388)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:9.96234608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="path4642-9-2-0"
+         sodipodi:cx="882.5"
+         sodipodi:cy="322.5"
+         sodipodi:rx="42.5"
+         sodipodi:ry="42.5"
+         d="M 840,322.5 A 42.5,42.5 0 0 1 882.5,280 42.5,42.5 0 0 1 925,322.5"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+      <path
+         transform="matrix(0.51764701,0,0,-0.51764701,760.10886,290.81387)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:9.96234608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         id="path4644-15-5-7"
+         sodipodi:cx="882.5"
+         sodipodi:cy="322.5"
+         sodipodi:rx="42.5"
+         sodipodi:ry="42.5"
+         d="M 840,322.5 A 42.5,42.5 0 0 1 882.5,280 42.5,42.5 0 0 1 925,322.5"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 81.281089,87.467845 H 94.008566"
+       id="path8488-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8490-2-4"
+       d="M 50.652115,87.467845 H 62.866737"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="matrix(0,0.31503869,0.31503869,0,12.040623,106.53645)"
+       id="g56108-8-7-2"
+       style="display:inline;stroke-width:1.7916671;stroke-miterlimit:3.82333326;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1.7916671;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         d="M 98.473753,143.96772 V 122.02754"
+         id="path56110-2-1-8"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       inkscape:transform-center-y="83.103563"
+       inkscape:transform-center-x="-5.1581522"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.783138"
+       y="136.98721"
+       id="text4905-8-1-1-1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"><tspan
+         sodipodi:role="line"
+         x="32.783138"
+         y="136.98721"
+         style="font-size:7.05555582px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan4911-5-7-1-7">Analog</tspan><tspan
+         sodipodi:role="line"
+         x="32.783138"
+         y="145.80666"
+         style="font-size:7.05555582px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan6149-8-0">Control</tspan></text>
+    <g
+       id="g5190-7"
+       transform="matrix(0,0.28222223,-0.28222223,0,-59.899162,-163.49792)"
+       style="display:inline;stroke-width:3;stroke-miterlimit:3.82333326;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872">
+      <rect
+         width="1.154013"
+         height="15.441024"
+         ry="0.40634274"
+         x="-523.41626"
+         y="-1074.4973"
+         id="rect5192-1"
+         style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)"
+         inkscape:export-filename="E:\Documents\Patents\P3_HybridArch\Inkscape\PropPath.png"
+         inkscape:export-xdpi="400.2623"
+         inkscape:export-ydpi="400.2623"
+         rx="0.40634274" />
+      <rect
+         width="1.154013"
+         height="15.441024"
+         ry="0.40634274"
+         x="-516.90991"
+         y="-1074.4973"
+         id="rect5194-0"
+         style="fill:#000000;fill-opacity:0.81568627;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)"
+         inkscape:export-filename="E:\Documents\Patents\P3_HybridArch\Inkscape\PropPath.png"
+         inkscape:export-xdpi="400.2623"
+         inkscape:export-ydpi="400.2623"
+         rx="0.40634274" />
+    </g>
+    <circle
+       r="0.78279519"
+       cy="137.51512"
+       cx="94.117218"
+       inkscape:transform-center-y="-3.5195496e-05"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="circle5196-2"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       inkscape:transform-center-x="-39.882884" />
+    <g
+       style="display:inline;stroke-width:1.7916671;stroke-miterlimit:3.82333326;stroke-dasharray:none"
+       id="g5198-7"
+       transform="matrix(0,0.31503869,-0.31503869,0,133.06765,106.53646)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path5200-0"
+         d="M 98.473753,143.96772 V 124.48314"
+         style="fill:none;stroke:#000000;stroke-width:1.7916671;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <circle
+       r="0.78279519"
+       cy="137.51709"
+       cx="81.707199"
+       inkscape:transform-center-x="39.882955"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="circle5210-9"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="2.1237254e-05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5212-4"
+       width="1.2310625"
+       height="3.2645726"
+       x="50.157082"
+       y="128.35741"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 56.006205,167.28413 V 160.4131"
+       id="path4581-6-5-5"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 54.173256,168.43896 v -9.16974"
+       id="path4583-1-2-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4585-6-0-5"
+       d="m 50.771688,157.55684 c 0,0 0,0.49643 0,3.55134 h 3.360336"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4587-3-3-1"
+       d="m 50.753755,170.21772 v -3.55128 h 3.376943"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 88.893789,167.31383 v -6.87104"
+       id="path4597-2-2-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.726738,168.46862 v -9.16977"
+       id="path4599-8-9-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4601-2-7-2"
+       d="m 94.128306,157.58653 c 0,0 0,0.49637 0,3.55129 h -3.360365"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4666-4-5-6"
+       d="M 94.131129,160.00942 V 75.563596"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4674-9-2-6"
+       d="m 94.117016,170.17451 v -3.55125 h -3.349075"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4676-6-2-7"
+       d="m 94.117016,169.96409 v 3.55024 l -43.363261,0.0461 v -3.33208"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:connector-curvature="0"
+       id="path4682-3-2-7"
+       d="m 72.80799,59.4135 v -3.308438 h 0.129778"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       inkscape:transform-center-x="-39.882884"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="scale(1,-1)"
+       id="path4700-8-0-4"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="3.5195496e-05"
+       cx="94.074417"
+       cy="-155.45616"
+       r="0.78279519" />
+    <circle
+       inkscape:transform-center-x="39.882955"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="scale(-1)"
+       id="path4716-4-5-8"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="-2.1237254e-05"
+       cx="-50.783283"
+       cy="-155.45802"
+       r="0.78279519" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4722-9-1-8"
+       d="M 88.707599,163.53219 H 74.628443 L 68.501738,155.4923 H 50.66028"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4724-3-0-4"
+       d="m 56.170876,163.52443 h 12.297699 l 6.126707,-8.03213 h 19.580686"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path27482-0-1"
+       d="M 56.006205,63.984752 V 70.85579"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path27484-0-5"
+       d="m 54.173256,62.829898 v 9.169739"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.771688,75.688902 c 0,0 0,-2.473282 0,-5.528196 h 3.360336"
+       id="path27486-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.791924,60.271822 v 4.330602 h 3.338774"
+       id="path27488-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path27492-4-7"
+       d="m 88.893789,63.955063 v 6.871038"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path27494-9-5"
+       d="m 90.726738,62.800265 v 9.169712"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.07198429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.128306,75.659184 c 0,0 0,-2.473198 0,-5.528111 h -3.360365"
+       id="path27496-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.82333326;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.098135,60.350046 v 4.295587 h -3.330194"
+       id="path27506-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 94.02655,60.27328 H 50.794297"
+       id="path27508-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <circle
+       inkscape:transform-center-y="-3.5195496e-05"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path27512-6-4"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       inkscape:transform-center-x="-39.882884"
+       cx="94.147118"
+       cy="75.703674"
+       r="0.78279519" />
+    <circle
+       inkscape:transform-center-y="2.1237254e-05"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path27516-8-1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       inkscape:transform-center-x="39.882955"
+       cx="-50.783283"
+       cy="75.810883"
+       r="0.78279519"
+       transform="scale(-1,1)" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 86.432764,67.319377 H 74.969874 L 68.501738,75.77659 H 50.662249"
+       id="path27518-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.380407,67.365097 h 10.088168 l 6.126707,8.411493 h 19.80238"
+       id="path27520-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <circle
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path27522-4-7"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       cx="-87.578728"
+       cy="67.351593"
+       r="0.97010136"
+       transform="scale(-1,1)" />
+    <circle
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="path27524-8-2"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.53599215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="-57.435589"
+       cy="67.351593"
+       r="0.97010136"
+       transform="scale(-1,1)" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path50281-5-0-0-4-5"
+       d="M 75.406946,177.31572 H 70.581399"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path50283-6-1-4-5-1"
+       d="M 74.602683,178.2808 H 71.38566"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path50285-7-8-9-5-7"
+       d="M 73.396296,179.24592 H 72.592048"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#000000;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path8497-6-8-9"
+       transform="scale(1,-1)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       cx="72.725525"
+       cy="-60.211529"
+       r="0.78279519" />
+    <circle
+       cy="173.4955"
+       cx="73.008476"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="circle6070-4"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       r="0.78279519" />
+    <rect
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.12899995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.12899997, 1.12899997;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7951-1-85-46-51-1-76-5-9-2"
+       width="21.502455"
+       height="24.373131"
+       x="98.148819"
+       y="-84.161438"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       transform="rotate(90)"
+       ry="0" />
+    <circle
+       r="0.78279519"
+       cy="87.228722"
+       cx="94.147118"
+       inkscape:transform-center-x="-39.882884"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="circle8522"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="-3.5195496e-05" />
+    <circle
+       transform="scale(-1,1)"
+       r="0.78279519"
+       cy="87.33593"
+       cx="-50.783283"
+       inkscape:transform-center-x="39.882955"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       id="circle8524"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:transform-center-y="2.1237254e-05" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53594005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.994172,173.57732 v 3.2318"
+       id="path8488-0-2-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.12888896;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.807924,55.498152 H 76.77229"
+       id="path8612"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.652115,108.91673 H 69.811648"
+       id="path8644"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <circle
+       inkscape:transform-center-y="2.1237254e-05"
+       style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52186346;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="circle8646"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"
+       inkscape:transform-center-x="39.882955"
+       cx="-50.783283"
+       cy="108.78482"
+       r="0.78279519"
+       transform="scale(-1,1)" />
+    <g
+       style="display:inline;stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g8652"
+       transform="matrix(-0.28222223,0,0,0.28222223,325.25367,248.97248)"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 818.46413,-496.26051 h 69.26818"
+         id="path8648"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2_noAlias.png"
+         inkscape:export-xdpi="200.01872"
+         inkscape:export-ydpi="200.01872" />
+      <circle
+         inkscape:transform-center-y="2.1237254e-05"
+         style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle8650"
+         inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2_noAlias.png"
+         inkscape:export-xdpi="200.01872"
+         inkscape:export-ydpi="200.01872"
+         inkscape:transform-center-x="39.882955"
+         cx="-818.92889"
+         cy="-496.72791"
+         r="2.7736835"
+         transform="scale(-1,1)" />
+    </g>
+    <text
+       id="text14328-3-31-6"
+       y="80.504211"
+       x="31.438604"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:transform-center-x="-5.1581522"
+       inkscape:transform-center-y="83.103563"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"><tspan
+         style="font-size:7.05555582px;line-height:1.25;stroke-width:0.28222224px"
+         y="80.504211"
+         x="31.438604"
+         id="tspan14330-0-2-7"
+         sodipodi:role="line">VCO<tspan
+   style="font-size:4.58611107px;baseline-shift:sub;stroke-width:0.28222224px"
+   id="tspan14581-5-3">p</tspan></tspan></text>
+    <text
+       inkscape:transform-center-y="83.103563"
+       inkscape:transform-center-x="-5.1581522"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.313843"
+       y="76.891815"
+       id="text14591-3-1"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"><tspan
+         sodipodi:role="line"
+         id="tspan14593-0-9"
+         x="96.313843"
+         y="76.891815"
+         style="font-size:7.05555582px;line-height:1.25;stroke-width:0.28222224px">VCO<tspan
+   style="font-size:4.58611107px;baseline-shift:sub;stroke-width:0.28222224px"
+   id="tspan5168-3-5">n</tspan></tspan></text>
+    <text
+       id="text5423-7-7"
+       y="111.5817"
+       x="33.134453"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:transform-center-x="-83.103556"
+       inkscape:transform-center-y="-5.1581557"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872"><tspan
+         id="tspan5425-7-3"
+         style="font-size:7.05555582px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="111.5817"
+         x="33.134453"
+         sodipodi:role="line">Dig</tspan><tspan
+         id="tspan5427-0-5"
+         style="font-size:7.05555582px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="120.40115"
+         x="33.134453"
+         sodipodi:role="line">Control</tspan></text>
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9136"
+       d="M 45.031839,113.98385 H 57.363538"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.12888896;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9138)" />
+    <rect
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       y="146.74271"
+       x="50.157082"
+       height="3.2645726"
+       width="1.2310625"
+       id="rect10156"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.56444448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect10158"
+       width="1.0635202"
+       height="3.2645726"
+       x="50.158512"
+       y="112.31158"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-ydpi="200.01872" />
+    <path
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4668-4-1-2"
+       d="M 50.77217,158.31984 V 75.908303"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53599215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       r="0.69193071"
+       cy="113.87863"
+       cx="-44.495071"
+       inkscape:export-ydpi="200.01872"
+       inkscape:export-xdpi="200.01872"
+       inkscape:export-filename="C:\Users\IBM_ADMIN\Documents\Documents\PUBLICATIONS\ISSCC2016\Inkscape\PNG\FIG2.png"
+       transform="scale(-1,1)"
+       id="circle10160"
+       style="display:inline;opacity:0.98999999;fill:none;stroke:#070000;stroke-width:0.38229963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g6336"
+       transform="translate(2.2860372)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5941"
+         d="m 67.933656,104.08735 v 9.76398"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 72.016776,104.08735 v 9.76398"
+         id="path5943"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5945"
+         d="m 64.797347,115.74496 c 0.295878,-0.71011 10.592442,-14.14298 10.592442,-14.14298"
+         style="fill:#808080;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+    </g>
+  </g>
+</svg>

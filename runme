@@ -9,3 +9,4 @@ cp index.slides.html index.html
 # https://nbconvert.readthedocs.io/en/latest/config_options.html
 # Themes: beige, black, lood, league, moon, night, serif, simple, sky, solarized, white
 
+# The access urs/?print pdf
